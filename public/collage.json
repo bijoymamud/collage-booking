@@ -1,0 +1,73 @@
+[
+  {
+    "college_name": "Alpha University",
+    "collage_image": "https://images.unsplash.com/photo-1568792923760-d70635a89fdc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "admission_date": "2023-09-01",
+    "events": ["Freshers' Party", "Annual Cultural Fest", "Tech Expo"],
+    "research_history": "Established in 1965, College A has been a pioneer in research in various fields.",
+    "sports": ["Football", "Basketball", "Badminton"]
+  },
+
+  {
+    "college_name": "Beta College",
+    "collage_image": "https://images.unsplash.com/photo-1591123120675-6f7f1aae0e5b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=869&q=80",
+    "admission_date": "2023-08-15",
+    "events": ["Orientation Day", "Science Fair", "Literary Symposium"],
+    "research_history": "College B has a rich history of groundbreaking research and innovation.",
+    "sports": ["Cricket", "Tennis", "Swimming"]
+  },
+
+  {
+    "college_name": "Gamma Institute of Technology",
+    "collage_image": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80",
+    "admission_date": "2023-09-30",
+    "events": [
+      "College Day Celebrations",
+      "Intra-college Sports Meet",
+      "Entrepreneurship Summit"
+    ],
+    "research_history": "Known for its contributions to social sciences research and environmental studies.",
+    "sports": ["Volleyball", "Athletics", "Table Tennis"]
+  },
+
+  {
+    "college_name": "Delta Medical College    ",
+    "collage_image": "https://images.unsplash.com/photo-1583373834259-46cc92173cb7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80",
+    "admission_date": "2023-09-10",
+    "events": ["Freshers' Welcome", "Tech Hackathon", "Art Exhibition"],
+    "research_history": "College D has a strong focus on STEM research and collaboration with industry.",
+    "sports": ["Hockey", "Squash", "Chess"]
+  },
+  {
+    "college_name": "Epsilon Arts Academy",
+    "collage_image": "https://images.unsplash.com/photo-1532649538693-f3a2ec1bf8bd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "admission_date": "2023-08-25",
+    "events": ["Annual Sports Day", "Debate Competition", "Music Festival"],
+    "research_history": "Renowned for its medical research and contributions to healthcare advancements.",
+    "sports": ["Basketball", "Swimming", "Yoga"]
+  },
+  {
+    "college_name": "Zeta Business School",
+    "collage_image": "https://w0.peakpx.com/wallpaper/324/906/HD-wallpaper-curzon-hall-asia-bangladesh-castles-dhaka-dhaka-university-du-heritage-history-university-of-dhaka.jpg",
+    "admission_date": "2023-08-20",
+    "events": ["Freshers' Night", "Tech Symposium", "Literary Fest"],
+    "research_history": "College F boasts a history of pioneering research in computer science and AI.",
+    "sports": ["Football", "Badminton", "Martial Arts"]
+  },
+  {
+    "college_name": "Theta Engineering Institute",
+    "collage_image": "https://c4.wallpaperflare.com/wallpaper/485/65/161/stanford-university-hd-wallpaper-wallpaper-preview.jpg",
+    "admission_date": "2023-09-05",
+    "events": ["Annual Drama Festival", "Business Summit", "Science Expo"],
+    "research_history": "College G has made significant contributions to environmental and sustainability research.",
+    "sports": ["Cricket", "Tennis", "Table Tennis"]
+  },
+  {
+    "college_name": "Iota Sports University",
+    "collage_image": "https://wallpapercave.com/wp/wp2017244.jpg",
+    "admission_date": "2023-08-28",
+    "events": ["Freshers' Bash", "Robotics Competition", "Literary Conference"],
+    "research_history": "Known for its innovative research in engineering and technology.",
+    "sports": ["Volleyball", "Athletics", "Chess"]
+  }
+]
