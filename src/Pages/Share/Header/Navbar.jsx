@@ -17,7 +17,7 @@ const navItems = <>
   </li>
 
   <li tabIndex={0}>
-    <Link className='font-bold' to="/blogs">Admission</Link>
+    <Link className='font-bold' to="/admission">Admission</Link>
 
   </li>
   <li tabIndex={0}>

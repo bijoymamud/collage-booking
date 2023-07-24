@@ -7,7 +7,7 @@ const useCollage = () => {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch('http://localhost:5000/collage')
+    fetch('https://collage-booking-server-five.vercel.app/collage')
       .then(res => res.json())
       .then(data => {
         setCollages(data);
